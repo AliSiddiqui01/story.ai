@@ -1,0 +1,576 @@
+2025-07-30 17:29:10 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:29:10 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:29:10 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:29:10 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:30:01 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:30:01 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:34:50 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:34:50 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:34:50 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:34:50 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:37:03 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:37:03 [app] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:38:11 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:38:11 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:38:11 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:38:11 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:40:30 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:40:30 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:40:51 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:40:51 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:42:23 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:42:23 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:42:23 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:42:23 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:43:38 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:43:38 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:44:56 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:44:56 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:44:56 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:44:56 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:46:36 [database] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2025-07-30 17:46:36 [errorHandler] [31merror[39m: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middleware/coppaMiddleware.ts(2,41): error TS2307: Cannot find module '@ai-storyteller/shared' or its corresponding type declarations.
+src/middleware/coppaMiddleware.ts(182,15): error TS2304: Cannot find name 'isSubjectToCOPPA'.
+
+    at createTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\Ai stroy\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\Ai stroy\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\Ai stroy\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Ai stroy\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
